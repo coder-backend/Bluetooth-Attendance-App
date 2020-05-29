@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321699738036",
+    "firebase_url": "https://bluetoothattendance-e0407.firebaseio.com",
+    "project_id": "bluetoothattendance-e0407",
+    "storage_bucket": "bluetoothattendance-e0407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321699738036:android:24dab334e5905bbd8fc2e1",
+        "android_client_info": {
+          "package_name": "com.example.bluetooth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321699738036-ngmj44ft6s7uvqstl0rvg9krlcf8qs20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3FUnEhOehocD1kAdD4IOmotZ076hwF_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321699738036-ngmj44ft6s7uvqstl0rvg9krlcf8qs20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
