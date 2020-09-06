@@ -1,4 +1,5 @@
 # bluetooth_app
+Get the Screenshots of the App from Screenshots folder
 
 A new Flutter project.
 
