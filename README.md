@@ -1,7 +1,7 @@
 # bluetooth_app
 Get the [Screenshots](Screenshot) of the App from Screenshots folder
 
-[Screenshot](Screenshot/WhatsApp Image 2020-09-06 at 8.12.59 PM (1).jpeg)
+![Screenshot](Screenshot/WhatsApp Image 2020-09-06 at 8.12.59 PM (1).jpeg)
 
 A new Flutter project.
 
