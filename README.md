@@ -1,7 +1,7 @@
 # bluetooth_app
 Get the [screenshots](Screenshot) of the App from Screenshots folder
 
-![Signup](screenshot/SignUp.jpeg)
+![Signup](screenshot/SignUp.jpeg)  ![Login](screenshot/Login.jpeg)
 
 A new Flutter project.
 
