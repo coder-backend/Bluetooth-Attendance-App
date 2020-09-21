@@ -1,19 +1,19 @@
 # bluetooth_app
-Get the [screenshots](Screenshot) of the App from Screenshots folder
+This was built completey on [flutter](https://flutter.dev/) using [dart](https://dart.dev/) language.
+I chose [firebase](https://firebase.google.com/) for database
+# Say Bye Bye to pen and Paper
+# Bye bye to Proxy
+Many students, they don't actually present in class but ask thier friends to give proxy for the class. Though they are not present in class but thier attendace is full.
+So considering this I built a flutter app which will allow teacher's to take attendace using mobile bluetooth. Its a very simple app to use and effective too.
+
+Every Students and Teachers first have to create an account and then all those bluetooth feature and automatically increase in attendance once student is connect with teacher's bluetooth device and automatically increase in total class teacher's had taken so far are inbuilt with in this app.
+
+You can run this app just by downloading this project and run the code in android studio or vs code.
+
+You can get insight of this project if you want, just look at [screenshots](Screenshot) folder 
 
 ![Signup](screenshot/SignUp.jpeg)  ![Login](screenshot/Login.jpeg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Contact
+Email : ashish.adhikari727@gmail.com
+Github: https://github.com/ashish807
